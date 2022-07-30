@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CURRVERT/static/css/main.236ab6ea.css",
+    "main.js": "/CURRVERT/static/js/main.2d47a8d8.js",
+    "static/js/787.88e0b5eb.chunk.js": "/CURRVERT/static/js/787.88e0b5eb.chunk.js",
+    "index.html": "/CURRVERT/index.html",
+    "main.236ab6ea.css.map": "/CURRVERT/static/css/main.236ab6ea.css.map",
+    "main.2d47a8d8.js.map": "/CURRVERT/static/js/main.2d47a8d8.js.map",
+    "787.88e0b5eb.chunk.js.map": "/CURRVERT/static/js/787.88e0b5eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.236ab6ea.css",
+    "static/js/main.2d47a8d8.js"
+  ]
+}
