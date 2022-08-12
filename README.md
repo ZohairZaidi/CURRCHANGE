@@ -1,6 +1,10 @@
 # How it Works
 Currvert is powered by an [api](https://fixer.io/), allowing us to view and compare currency rates around the globe.. The data recieved from the api source is updated every minute to ensure correct foreign exhange rates.
 
+## DEMO
+
+https://user-images.githubusercontent.com/75513427/184337188-73ce5365-fc20-4d81-862b-b68bdfd4d8e1.mov
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
