@@ -56,7 +56,7 @@ function App() {
 
   return (
     <div>
-      <h1>CURRVERT</h1>
+      <h1>CURRCHANGE</h1>
       <CurrencyInput
         onAmountChange={handleAmount1Change}
         onCurrencyChange={handleCurrency1Change}
